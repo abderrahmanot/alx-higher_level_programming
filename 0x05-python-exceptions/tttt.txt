@@ -1,9 +1,0 @@
-https://github.com/eslamalawy/alx-higher_level_programming/blob/master/0x05-python-exceptions/100-safe_print_integer_err.py
-https://github.com/eslamalawy/alx-higher_level_programming/blob/master/0x05-python-exceptions/101-safe_function.py
-https://github.com/eslamalawy/alx-higher_level_programming/blob/master/0x05-python-exceptions/102-magic_calculation.py
-https://github.com/eslamalawy/alx-higher_level_programming/blob/master/0x05-python-exceptions/103-python.c
-https://github.com/eslamalawy/alx-higher_level_programming/blob/master/0x05-python-exceptions/2-safe_print_list_integers.py
-https://github.com/eslamalawy/alx-higher_level_programming/blob/master/0x05-python-exceptions/3-safe_print_division.py
-https://github.com/eslamalawy/alx-higher_level_programming/blob/master/0x05-python-exceptions/4-list_division.py
-https://github.com/eslamalawy/alx-higher_level_programming/blob/master/0x05-python-exceptions/5-raise_exception.py
-https://github.com/eslamalawy/alx-higher_level_programming/blob/master/0x05-python-exceptions/6-raise_exception_msg.py
